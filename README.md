@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tahiana1
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Blockchain and web3
+- 💞️ I’m looking to collaborate on Ruby on Rails, React.js, Python/Django, PHP/Laravel
